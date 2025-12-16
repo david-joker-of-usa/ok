@@ -1,6 +1,6 @@
 lock: { 
 profilePicLarge,
-x}
+profileCoverPhoto}
 public-> tag: profileCoverPhoto
 
 post -> cover: tag: View profile cover photo
